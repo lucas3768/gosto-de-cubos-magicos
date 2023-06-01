@@ -1,0 +1,8 @@
+.heading { font-size: 23;
+margin: 0;
+width: 100%;}
+canvas {
+    border: 5px solid blue;
+    border-radius: 20 px;
+    box-shadow: 10px 5px 4px black;
+}
